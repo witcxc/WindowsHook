@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardHookDLL", "KeyboardHookDLL\KeyboardHookDLL.vcxproj", "{FACDCD41-2843-4D4A-B1E2-483E87A21387}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardHookEXE", "KeyboardHookEXE\KeyboardHookEXE.vcxproj", "{DA86F52F-C1C2-4CCB-A182-3715FF97758E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LowLevelKeyboardHook", "LowLevelKeyboardHook\LowLevelKeyboardHook.vcxproj", "{BC07E709-0178-49B7-9C1B-1CEE461873C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyHook", "MyHook\MyHook.vcxproj", "{6EDB3473-693B-4B11-9295-893A7A0D5321}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyHook1.2", "MyHook1.2\MyHook1.2.vcxproj", "{F8EBFE39-99C4-43C5-843A-A645115B8D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACDCD41-2843-4D4A-B1E2-483E87A21387}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FACDCD41-2843-4D4A-B1E2-483E87A21387}.Debug|Win32.Build.0 = Debug|Win32
+		{FACDCD41-2843-4D4A-B1E2-483E87A21387}.Release|Win32.ActiveCfg = Release|Win32
+		{FACDCD41-2843-4D4A-B1E2-483E87A21387}.Release|Win32.Build.0 = Release|Win32
+		{DA86F52F-C1C2-4CCB-A182-3715FF97758E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA86F52F-C1C2-4CCB-A182-3715FF97758E}.Debug|Win32.Build.0 = Debug|Win32
+		{DA86F52F-C1C2-4CCB-A182-3715FF97758E}.Release|Win32.ActiveCfg = Release|Win32
+		{DA86F52F-C1C2-4CCB-A182-3715FF97758E}.Release|Win32.Build.0 = Release|Win32
+		{BC07E709-0178-49B7-9C1B-1CEE461873C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC07E709-0178-49B7-9C1B-1CEE461873C3}.Debug|Win32.Build.0 = Debug|Win32
+		{BC07E709-0178-49B7-9C1B-1CEE461873C3}.Release|Win32.ActiveCfg = Release|Win32
+		{BC07E709-0178-49B7-9C1B-1CEE461873C3}.Release|Win32.Build.0 = Release|Win32
+		{6EDB3473-693B-4B11-9295-893A7A0D5321}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6EDB3473-693B-4B11-9295-893A7A0D5321}.Debug|Win32.Build.0 = Debug|Win32
+		{6EDB3473-693B-4B11-9295-893A7A0D5321}.Release|Win32.ActiveCfg = Release|Win32
+		{6EDB3473-693B-4B11-9295-893A7A0D5321}.Release|Win32.Build.0 = Release|Win32
+		{F8EBFE39-99C4-43C5-843A-A645115B8D98}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8EBFE39-99C4-43C5-843A-A645115B8D98}.Debug|Win32.Build.0 = Debug|Win32
+		{F8EBFE39-99C4-43C5-843A-A645115B8D98}.Release|Win32.ActiveCfg = Release|Win32
+		{F8EBFE39-99C4-43C5-843A-A645115B8D98}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
